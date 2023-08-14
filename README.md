@@ -1,6 +1,8 @@
-# Module 4 Problems
+# Module 3 - Files
 
-Please complete all problems from the Module 4 Problem Set.
+Please write the following programs from the Module 3 - Files Problem Set.
+- 1 program, from 1 short problem
+- 2 programs, from the long problem
 
 ---
 
